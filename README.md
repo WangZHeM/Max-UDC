@@ -1,27 +1,27 @@
 # Max-UDC
-Max-UDC实验代码
+Max-UDC Experimental code
 # READ ME
 
-##### 本项目包含8个文件：
+##### This project contains 8 files：
 
-creatdata.py：数据生成文件
+creatdata.py：create map data and uav data
 
-readdata.py：数据读取文件
+readdata.py：read data
 
-MaxUDC.py：Max-UDC算法
+MaxUDC.py：algorithm of Max-UDC 
 
-OPT.py：暴力搜索算法
+OPT.py：Violent search algorithm
 
-G_Greedy.py：Generalized greedy 算法
+G_Greedy.py：Generalized greedy algorithm
 
-Greedy.py：Greedy算法
+Greedy.py：Greedy algorithm
 
-testfile.py: 测试代码
+testfile.py: testing Code
 
-Data文件夹：存放实验数据
+Data folder：Store experimental data
 
-##### 使用步骤：
+##### Usage steps：
 
-1.使用creatdata.py生成实验数据
+1.execute creatdata.py to create the Experimental data
 
-2.运行Max-UDC.py、OPT.py、G-Greedy.py、Greedy.py进行实验
+2.execute Max-UDC.py、OPT.py、G-Greedy.py、Greedy.py
