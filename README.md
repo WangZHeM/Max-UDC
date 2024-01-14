@@ -24,4 +24,4 @@ Data folder：Store experimental data
 
 1.execute creatdata.py to create the Experimental data
 
-2.execute Max-UDC.py、OPT.py、G-Greedy.py、Greedy.py
+2.execute MaxUDC.py、OPT.py、G_Greedy.py、Greedy.py
